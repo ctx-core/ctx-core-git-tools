@@ -1,5 +1,11 @@
 # @ctx-core/git-tools
 
+## 3.0.1
+
+### Patch Changes
+
+- fix: include bin/\*.js files in npm package
+
 ## 3.0.0
 
 ### Major Changes
