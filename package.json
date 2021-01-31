@@ -1,6 +1,6 @@
 {
   "name": "@ctx-core/ctx-core-git-tools",
-  "version": "4.0.0",
+  "version": "5.0.0",
   "description": "git tools for the @ctx-core monorepo",
   "keywords": [
     "ctx-core"
@@ -15,9 +15,9 @@
   },
   "license": "Apache-2.0",
   "author": "Brian Takita",
-  "main": "./index.js",
-  "module": "./index.js",
-  "types": "./index.ts",
+  "main": "./src/index.js",
+  "module": "./src/index.js",
+  "types": "./src/index.ts",
   "scripts": {
     "exec": "$@"
   },
