@@ -1,5 +1,11 @@
 # @ctx-core/ctx-core-git-tools
 
+## 5.1.0
+
+### Minor Changes
+
+- "noImplicitAny": true
+
 ## 5.0.9
 
 ### Patch Changes
