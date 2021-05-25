@@ -1,23 +1,26 @@
 {
   "name": "@ctx-core/ctx-core-git-tools",
-  "version": "5.2.1",
+  "version": "5.3.0",
   "description": "git tools for the @ctx-core monorepo",
   "keywords": [
     "ctx-core"
   ],
-  "homepage": "https://github.com/ctx-core/word-segmentation#readme",
+  "homepage": "https://github.com/ctx-core/ctx-core-git-tools#readme",
   "bugs": {
-    "url": "https://github.com/ctx-core/word-segmentation/issues"
+    "url": "https://github.com/ctx-core/ctx-core-git-tools/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ctx-core/word-segmentation/issues"
+    "url": "https://github.com/ctx-core/ctx-core-git-tools/issues"
   },
   "license": "Apache-2.0",
   "author": "Brian Takita",
   "module": "./dist/index.js",
-  "types": "./types/index.d.ts",
+  "types": "./dist/index.d.ts",
   "scripts": {
+    "build": "npm run clean && npm run compile",
+    "clean": "rm -f tsconfig.tsbuildinfo",
+    "compile": "./node_modules/.bin/tsc -b .",
     "exec": "$@"
   },
   "dependencies": {},
