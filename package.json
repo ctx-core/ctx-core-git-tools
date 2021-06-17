@@ -1,6 +1,6 @@
 {
   "name": "@ctx-core/ctx-core-git-tools",
-  "version": "6.0.0",
+  "version": "6.0.1",
   "description": "git tools for the @ctx-core monorepo",
   "keywords": [
     "ctx-core"
@@ -24,7 +24,7 @@
     "exec": "$@"
   },
   "devDependencies": {
-    "typescript": "^4.3.2"
+    "typescript": "^4.3.3"
   },
   "publishConfig": {
     "access": "public",
