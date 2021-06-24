@@ -31,9 +31,6 @@
 		"node_modules",
 		"dist"
 	],
-	"lib": [
-		"dom",
-		"ES2020"
-	],
+	"lib": ["dom", "ESNext"],
 	"references": []
 }
