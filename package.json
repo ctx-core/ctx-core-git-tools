@@ -1,6 +1,6 @@
 {
   "name": "@ctx-core/ctx-core-git-tools",
-  "version": "6.0.5",
+  "version": "6.0.6",
   "description": "git tools for the @ctx-core monorepo",
   "keywords": [
     "ctx-core"
