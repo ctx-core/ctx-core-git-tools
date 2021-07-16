@@ -1,5 +1,17 @@
 # @ctx-core/ctx-core-git-tools
 
+## 6.0.15
+
+### Patch Changes
+
+- fix: sourceMappingURL: "mapRoot": ""
+
+## 6.0.14
+
+### Patch Changes
+
+- tsconfig.json: "target": "es2019"
+
 ## 6.0.13
 
 ### Patch Changes
