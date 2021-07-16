@@ -1,5 +1,11 @@
 # @ctx-core/ctx-core-git-tools
 
+## 6.0.13
+
+### Patch Changes
+
+- fix: cjs: load as a Promise
+
 ## 6.0.12
 
 ### Patch Changes
