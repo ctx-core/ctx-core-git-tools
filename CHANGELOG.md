@@ -1,5 +1,11 @@
 # @ctx-core/ctx-core-git-tools
 
+## 6.0.11
+
+### Patch Changes
+
+- fix: index.cjs: module.exports = require('./index.js')
+
 ## 6.0.10
 
 ### Patch Changes
