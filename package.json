@@ -1,6 +1,6 @@
 {
   "name": "@ctx-core/ctx-core-git-tools",
-  "version": "6.0.11",
+  "version": "6.0.12",
   "description": "git tools for the @ctx-core monorepo",
   "keywords": [
     "ctx-core"
@@ -16,7 +16,7 @@
   "license": "Apache-2.0",
   "author": "Brian Takita",
   "type": "module",
-  "main": "./dist/index.js",
+  "main": "./dist/index.cjs",
   "module": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "exports": {

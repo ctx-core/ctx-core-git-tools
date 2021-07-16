@@ -1,5 +1,11 @@
 # @ctx-core/ctx-core-git-tools
 
+## 6.0.12
+
+### Patch Changes
+
+- "main": "./dist/index.cjs"
+
 ## 6.0.11
 
 ### Patch Changes
