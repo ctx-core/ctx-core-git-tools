@@ -1,5 +1,11 @@
 # @ctx-core/ctx-core-git-tools
 
+## 6.0.10
+
+### Patch Changes
+
+- back to esm module with cjs using esm npm package to load library
+
 ## 6.0.9
 
 ### Patch Changes
