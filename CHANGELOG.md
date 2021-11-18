@@ -1,5 +1,11 @@
 # @ctx-core/ctx-core-git-tools
 
+## 6.0.19
+
+### Patch Changes
+
+- typescript: ^4.4.4 -> ^4.5.2
+
 ## 6.0.18
 
 ### Patch Changes
