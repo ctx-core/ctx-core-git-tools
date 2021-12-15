@@ -1,6 +1,6 @@
 {
   "name": "@ctx-core/ctx-core-git-tools",
-  "version": "6.0.21",
+  "version": "6.0.22",
   "description": "git tools for the @ctx-core monorepo",
   "keywords": [
     "ctx-core"
@@ -18,7 +18,7 @@
   "type": "module",
   "exports": {
     ".": {
-      "types": "./src/index.ts",
+      "types": "./dist/index.d.ts",
       "import": "./dist/index.js"
     },
     "./package.json": "./package.json"

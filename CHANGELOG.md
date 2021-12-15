@@ -1,5 +1,11 @@
 # @ctx-core/ctx-core-git-tools
 
+## 6.0.22
+
+### Patch Changes
+
+- \*.d.ts export
+
 ## 6.0.21
 
 ### Patch Changes
