@@ -1,5 +1,11 @@
 # @ctx-core/ctx-core-git-tools
 
+## 6.0.21
+
+### Patch Changes
+
+- fix: tsconfig.json: "rootDir": "."
+
 ## 6.0.20
 
 ### Patch Changes
