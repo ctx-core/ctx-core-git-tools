@@ -1,5 +1,11 @@
 # @ctx-core/ctx-core-git-tools
 
+## 6.0.25
+
+### Patch Changes
+
+- tsconfig.json: "target": "ES2021"
+
 ## 6.0.24
 
 ### Patch Changes
