@@ -1,5 +1,11 @@
 # @ctx-core/ctx-core-git-tools
 
+## 6.0.24
+
+### Patch Changes
+
+- package.json: "types": "./src/index.ts": better editing experience
+
 ## 6.0.23
 
 ### Patch Changes
