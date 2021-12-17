@@ -1,5 +1,11 @@
 # @ctx-core/ctx-core-git-tools
 
+## 6.0.23
+
+### Patch Changes
+
+- fix: build
+
 ## 6.0.22
 
 ### Patch Changes
