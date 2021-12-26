@@ -1,41 +1,34 @@
 {
-  "name": "@ctx-core/ctx-core-git-tools",
-  "version": "6.0.26",
-  "description": "git tools for the @ctx-core monorepo",
-  "keywords": [
-    "ctx-core"
-  ],
-  "homepage": "https://github.com/ctx-core/ctx-core-git-tools#readme",
-  "bugs": {
-    "url": "https://github.com/ctx-core/ctx-core-git-tools/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/ctx-core/ctx-core-git-tools/issues"
-  },
-  "license": "Apache-2.0",
-  "author": "Brian Takita",
-  "type": "module",
-  "types": "./dist/index.d.ts",
-  "exports": {
-    ".": {
-      "import": "./dist/index.js"
-    },
-    "./package.json": "./package.json"
-  },
-  "scripts": {
-    "build": "npm run copy-mjs && npm run compile",
-    "clean": "rm -f tsconfig.tsbuildinfo && rm -f src/**/*.js && rm -f src/**/*.d.ts && rm -f src/**/*.map",
-    "compile": "./node_modules/.bin/tsc -b .",
-    "copy-mjs": "cd dist && echo \"module.exports = (async () => import('./index.js'))()\" > index.cjs",
-    "exec": "$@"
-  },
-  "devDependencies": {
-    "rimraf": "^3.0.2",
-    "typescript": "next"
-  },
-  "publishConfig": {
-    "access": "public",
-    "cache": "~/.npm"
-  }
+	"name": "@ctx-core/ctx-core-git-tools",
+	"version": "6.0.26",
+	"description": "git tools for the @ctx-core monorepo",
+	"keywords": [
+		"ctx-core"
+	],
+	"homepage": "https://github.com/ctx-core/ctx-core-git-tools#readme",
+	"bugs": {
+		"url": "https://github.com/ctx-core/ctx-core-git-tools/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ctx-core/ctx-core-git-tools/issues"
+	},
+	"license": "Apache-2.0",
+	"author": "Brian Takita",
+	"type": "module",
+	"types": "./dist/index.d.ts",
+	"exports": {
+		"./package.json": "./package.json"
+	},
+	"scripts": {
+		"build": ":",
+		"clean": ":",
+		"exec": "$@"
+	},
+	"devDependencies": {
+	},
+	"publishConfig": {
+		"access": "public",
+		"cache": "~/.npm"
+	}
 }
