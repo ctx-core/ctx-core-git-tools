@@ -16,7 +16,7 @@
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
 	"type": "module",
-	"types": "./dist/index.d.ts",
+	"types": "./lib/index.d.ts",
 	"exports": {
 		"./package.json": "./package.json"
 	},
