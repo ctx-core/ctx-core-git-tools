@@ -1,5 +1,11 @@
 # @ctx-core/ctx-core-git-tools
 
+## 6.0.30
+
+### Patch Changes
+
+- tsconfig.json: - importsNotUsedAsValues
+
 ## 6.0.29
 
 ### Patch Changes
