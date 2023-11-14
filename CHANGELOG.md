@@ -1,5 +1,11 @@
 # @ctx-core/ctx-core-git-tools
 
+## 6.0.52
+
+### Patch Changes
+
+- package.json: files: + \*.js
+
 ## 6.0.51
 
 ### Patch Changes
