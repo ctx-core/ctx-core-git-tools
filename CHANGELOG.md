@@ -1,5 +1,11 @@
 # @ctx-core/ctx-core-git-tools
 
+## 6.0.51
+
+### Patch Changes
+
+- fix: missing tsconfig.json
+
 ## 6.0.50
 
 ### Patch Changes
