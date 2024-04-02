@@ -1,5 +1,11 @@
 # @ctx-core/ctx-core-git-tools
 
+## 6.0.54
+
+### Patch Changes
+
+- create-repo-git-submodule: lib instead of packages
+
 ## 6.0.53
 
 ### Patch Changes

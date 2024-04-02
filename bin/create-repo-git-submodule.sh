@@ -11,5 +11,5 @@ git push -u origin master
 popd
 rm -rf "packages/$NAME"_
 git add .
-git submodule add "https://github.com/ctx-core/$NAME" "packages/$NAME"
+git submodule add "https://github.com/ctx-core/$NAME" "lib/$NAME"
 git commit -m "@ctx-core/$NAME: git submodule"
