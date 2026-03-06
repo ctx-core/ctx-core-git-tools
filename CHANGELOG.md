@@ -1,5 +1,11 @@
 # @ctx-core/ctx-core-git-tools
 
+## 6.0.55
+
+### Patch Changes
+
+- chore: migrate scripts from pnpm to bun
+
 ## 6.0.54
 
 ### Patch Changes
